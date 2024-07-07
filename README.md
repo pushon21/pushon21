@@ -1,7 +1,10 @@
 ## Who am I ?
-I am a third-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
-I am an open-source Contributor and a web development addict.
-
+I graduated from Bangladesh University of Business and Technology (BUBT) with a B.Sc. in Computer 
+Science and Engineering. I'm devoted to developing my career in this exciting sector because I have a 
+strong interest for technology and innovation. I first got into coding as a website developer and 
+designer, where I developed my ability to make interesting and user-friendly websites.I have always 
+been drawn to creative endeavors, which has motivated me to keep improving. I can't wait to use my 
+experience to improve technology and provide creative ideas that have a significant impact.
 <!--
 **pushon21/pushon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
